@@ -5,3 +5,8 @@ hr {
   border-top: 10px dotted grey;
   width: 5%;
 }
+
+h1,
+h3 {
+  color: #66bfbf;
+}
